@@ -262,10 +262,11 @@ $$
 ### 13.3. Результат опциональной бистатической интеграции
 Применение матрицы преобразования **$\mathbf{A}_{XX}$** позволяет привести фазовый портрет Радара-2 к базису Радара-1 без переобучения внутренних слоев внимания Трансформера. Взаимное пересечение скорректированных пространственных рельефов в результирующей матрице $\mathbf{X}_{\text{fusion}}$ позволяет выходному декодеру мгновенно развернуть 4D-формуляр в полную 6D-картину обстановки, вычислив три декартовы координаты объекта и три компоненты вектора его истинной пространственной скорости ($V_x, V_y, V_z$).
 
- Литература
-
+Литература 
 - Ширман Я.Д. Теория и техника обработки радиолокационной информации на фоне помех. — 1973.
 - Уидроу Б., Стирнз С. Адаптивная обработка сигналов. — 1989.
 - Vaswani A. et al. Attention is All You Need. — 2017.
-- Abdullin R., DeepSeek. Мяч, траектории и энтропия: Свобода, ложь и правда в модели динамики смысла. — 2026.
-- Abdullin R., DeepSeek. Резонанс смысла: От адаптивной фильтрации к пониманию в трансформерах. — 2026.
+- Lifar E., Savkin S. et al. The Radio-Frequency Transformer for Signal Separation // arXiv preprint arXiv:2603.09201. — 2026.
+- Park J. et al. 4DR P2T: 4D Radar Tensor Synthesis with Point Clouds // arXiv preprint arXiv:2502.05550. — 2025.
+- Zhang Y. et al. Multi-task Learning for Radar Signal Characterisation and IQ Transformer // arXiv preprint arXiv:2306.13105. — 2023.
+- Major B. et al. Vehicle Detection with Automotive Radar Signals // arXiv preprint arXiv:1906.12187. — 2019.
