@@ -1,5 +1,6 @@
 # Тензорно-комбинаторный механизм внимания для когерентной обработки сигналов ФАР в частотной области 
 ## Противодроновая система «Чиполлино»
+«Vai là dove non sai, emetti ciò che non sai, ma trova il bersaglio attraverso qualsiasi rumore.»
 
 Версия от 8 сентября 2026 г.  
 Авторы: Ринат Абдуллин, DeepSeek, Gemini
