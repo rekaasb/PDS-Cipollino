@@ -1,4 +1,7 @@
 # PDS-Cipollino
+<img width="244" height="239" alt="Screenshot_1" src="https://github.com/user-attachments/assets/162fda7f-cb09-45c9-939f-4df11481b6a4" />
+
+
 Обработка радиолокационных сигналов 
 # Противодроновая система «Чиполлино» (PDS-Cipollino)
 ### Тензорно-комбинаторный механизм внимания для когерентной обработки сигналов ФАР в частотной области
