@@ -2,7 +2,7 @@
 Обработка радиолокационных сигналов 
 # Противодроновая система «Чиполлино» (PDS-Cipollino)
 ### Тензорно-комбинаторный механизм внимания для когерентной обработки сигналов ФАР в частотной области
-[![DOI]([https://doi.org/10.5281/zenodo.22702309]
+[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.22702309)
 ![Radar Status](https://shields.io)
 ![License: GPL v3](https://shields.io)
 ![License: CC BY-NC-ND 4.0](https://shields.io)
