@@ -383,5 +383,10 @@ $$
 - Vaswani A. et al. Attention is All You Need. — 2017.
 - Lifar E., Savkin S. et al. The Radio-Frequency Transformer for Signal Separation // arXiv preprint arXiv:2603.09201. — 2026.
 - Park J. et al. 4DR P2T: 4D Radar Tensor Synthesis with Point Clouds // arXiv preprint arXiv:2502.05550. — 2025.
+
+## Об авторе / About the Author
+**Ринат Абдуллин** — кандидат технических наук (к.т.н.), независимый исследователь в области радиолокации и искусственного интеллекта. Выпускник и последователь фундаментальной научной школы профессора Я. Д. Ширмана (Харьковская военная академия ПВО), при непосредственном участии которого   защитил диссертацию в 1990 году. 
+После распада СССР в 1992 году был вынужден оставить научную деятельность, получил второе высшее образование по специальности «бухгалтер-экономист» и много лет работал в финансовой сфере. С появлением больших языковых моделей и архитектур Трансформеров вернулся к исследованиям, используя ИИ-инструменты как когнитивный мост для обобщения своего классического опыта в области ФАР и когерентной обработки сигналов на современные технологические тренды.
+
 - Zhang Y. et al. Multi-task Learning for Radar Signal Characterisation and IQ Transformer // arXiv preprint arXiv:2306.13105. — 2023.
 - Major B. et al. Vehicle Detection with Automotive Radar Signals // arXiv preprint arXiv:1906.12187. — 2019.
